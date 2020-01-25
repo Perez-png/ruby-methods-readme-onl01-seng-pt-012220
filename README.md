@@ -1,3 +1,8 @@
+def say_hello_ten_times_
+  phrase = "Hello World!"
+  puts phrase
+end
+
 def phrase = "Hello World!"
   puts "Hello World!"
 end
